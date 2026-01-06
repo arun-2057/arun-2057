@@ -8,7 +8,7 @@ I specialize in transforming raw data into actionable insights through **ETL pip
 ---
 
 ## 🔗 Portfolio
-👉 Check out my full portfolio here: [**arunlama0.github.io**](https://arunlama0.github.io)  
+👉 Check out my full portfolio here: [**arunlama0.github.io**]([https://arunlama0.github.io](https://arunlama0.com.np/))  
 
 ---
 
