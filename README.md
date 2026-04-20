@@ -73,5 +73,3 @@ I am a Data Professional dedicated to bridging the gap between raw data and acti
 <p align="center">
   <i>"Success is where data meets decision-making."</i>
 </p>
-README.md
-Displaying README.md.
