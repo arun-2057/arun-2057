@@ -2,7 +2,7 @@
 **Data Scientist | Data Engineer | ML Architect**
 *Turning Messy Data into Strategic Decisions*
 
-<p align="center">
+<p> •
   <a href="https://linkedin.com/in/lama-arun">LinkedIn</a> •
   <a href="https://github.com/sHoYo057">GitHub</a> •
   <a href="https://kaggle.com/zorornoa">Kaggle</a> •
